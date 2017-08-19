@@ -1,0 +1,24 @@
+{
+    "name": "brayun/ucenter",
+    "keywords": ["yii2", "ucenter"],
+    "description": "ucenter",
+    "homepage": "https://github.com/damirka/yii2-jwt",
+    "minimum-stability": "stable",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ethan",
+            "email": "ethan@brayun.com",
+            "homepage": "https://github.com/brayun"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"brayun\\ucenter\\": ""}
+    },
+    "require": {
+        "yiisoft/yii2": "~2.0.6",
+        "damirka/yii2-jwt": "^0.2.1"
+    }
+}
+
